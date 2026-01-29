@@ -4,13 +4,13 @@ A modern, full-stack web application that helps users create stunning portfolios
 
 ## Features
 
-- ✨ **AI-Powered Descriptions**: Automatically generate professional "About Me" and project descriptions using GPT-4 or Gemini 1.5 Pro
-- 🎨 **Real-Time Preview**: See your portfolio come to life as you type
-- 🌓 **Light/Dark Theme**: Switch between light and dark modes
-- 📄 **Export Options**: Download your portfolio as HTML or PDF
-- 💾 **Save & Load**: Save your portfolio data locally and on the server
-- 📱 **Responsive Design**: Beautiful UI that works on all devices
-- 🎯 **Modern UI**: Minimalistic design with TailwindCSS
+-  **AI-Powered Descriptions**: Automatically generate professional "About Me" and project descriptions using GPT-4 or Gemini 1.5 Pro
+-  **Real-Time Preview**: See your portfolio come to life as you type
+-  **Light/Dark Theme**: Switch between light and dark modes
+-  **Export Options**: Download your portfolio as HTML or PDF
+-  **Save & Load**: Save your portfolio data locally and on the server
+-  **Responsive Design**: Beautiful UI that works on all devices
+-  **Modern UI**: Minimalistic design with TailwindCSS
 
 ## Tech Stack
 
